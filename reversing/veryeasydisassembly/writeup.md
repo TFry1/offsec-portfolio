@@ -20,7 +20,7 @@ The pseudocode shows that scanf is being used to get user input and compare that
 After converting the hex number to decimal, you can run the program, enter the number 124816 when prompted, and the
 program will print successful. 
 
-![Ghidra screenshot](screenshots/ghidra-ss.png)
+![Ghidra screenshot](screenshots/ghidira-ss.png)
 
 **Takeaways:**
 Don't put hardcoded integers in the source code when checking for a password, at the very least 
